@@ -1,5 +1,3 @@
 # first_repository
 
-testing GitHub repository
-
-# first commit
+My functions/code from CodeWars katas
